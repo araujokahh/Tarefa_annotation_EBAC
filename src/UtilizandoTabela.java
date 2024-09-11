@@ -11,7 +11,6 @@ public class UtilizandoTabela {
     }
 
     @Tabela(valor = "Teste_aula_ANNOTATION_EBAC")
-    public class MinhaEntidade {
+    public static class MinhaTabela {
     }
-
 }
